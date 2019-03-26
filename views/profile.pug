@@ -1,0 +1,17 @@
+extends default
+
+block header
+
+block content
+  div.profile
+    div.profile-image(style=`background: url('/images/${car.imgSrc}') top center
+    no-repeat; background-size: cover;`)
+    div.profile-details
+      h1.profile-name
+        | #{car.carname} #{car.carcolor}
+      h2.profile-tagline
+        | #{car.tagline}
+      p.profile-bio
+        | #{car.bio}
+      a.button.button-buy(href=`${car.buy}`)
+        |  Buy Now

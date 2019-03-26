@@ -1,0 +1,12 @@
+extends default
+
+block content
+  div.container
+    each car in cars
+      div.car
+        div.car-image(style=`background: url('/images/${car.imgSrc}') top center
+        no-repeat; background-size: cover;`)
+        h2.car-name
+          | #{car.carname} #{car.carcolor}
+        a(href=`/profile?id=${car.id}`)
+          | View Profile

@@ -1,0 +1,100 @@
+{
+	"products":[
+		{
+			"carname": "Range-Rover",
+			"carcolor": "Silver",
+			"bio": "Range-Rover 2018, Silver color, speed is  ",
+			"tagline": "Silver colored range 2018",
+			"buy": "https://cars.com",
+			"imgSrc": "range-rover.jpg",
+			"id": "range"
+		},
+
+		{
+			"carname": "Infiniti",
+			"carcolor": "White",
+			"bio": "Infiniti 2018, Silver color, speed is  ",
+			"tagline": "Silver colored Infiniti 2018",
+			"buy": "https://cars.com",
+			"imgSrc": "infiniti.jpg",
+			"id": "infiniti"
+		},
+
+		{
+			"carname": "SUV",
+			"carcolor": "Silver",
+			"bio": "SUV 2018, Silver color, speed is  ",
+			"tagline": "Silver colored SUV 2018",
+			"buy": "https://cars.com",
+			"imgSrc": "car.jpg",
+			"id": "suv"
+		},
+
+		{
+			"carname": "Mercedes",
+			"carcolor": "Silver",
+			"bio": "Range-Rover 2018, Silver color, speed is  ",
+			"tagline": "Silver colored range 2018",
+			"buy": "https://cars.com",
+			"imgSrc": "sleek.jpeg",
+			"id": "porche"
+		},
+
+		{
+			"carname": "Monster Truck",
+			"carcolor": "Silver",
+			"bio": "Range-Rover 2018, Silver color, speed is  ",
+			"tagline": "Silver colored range 2018",
+			"buy": "https://cars.com",
+			"imgSrc": "mon.jpg",
+			"id": "MT"
+		},
+
+		{
+			"carname": "Damn",
+			"carcolor": "Silver",
+			"bio": "Range-Rover 2018, Silver color, speed is  ",
+			"tagline": "Silver colored range 2018",
+			"buy": "https://cars.com",
+			"imgSrc": "damn.jpeg",
+			"id": "damn"
+		},
+
+		{
+			"carname": "MB",
+			"carcolor": "Silver",
+			"bio": "Range-Rover 2018, Silver color, speed is  ",
+			"tagline": "Silver colored range 2018",
+			"buy": "https://cars.com",
+			"imgSrc": "real.jpg",
+			"id": "mb"
+		},
+
+		{
+			"carname": "Tucker",
+			"carcolor": "Silver",
+			"bio": "Range-Rover 2018, Silver color, speed is  ",
+			"tagline": "Silver colored range 2018",
+			"buy": "https://cars.com",
+			"imgSrc": "suv.jpeg",
+			"id": "tuck"
+		},
+
+		{
+			"carname": "snow",
+			"carcolor": "Silver",
+			"bio": "Range-Rover 2018, Silver color, speed is  ",
+			"tagline": "Silver colored range 2018",
+			"buy": "https://cars.com",
+			"imgSrc": "white.jpeg",
+			"id": "snow"
+		}
+
+
+
+
+
+
+	
+   ]
+}
